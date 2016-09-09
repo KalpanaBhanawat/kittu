@@ -1,0 +1,70 @@
+body
+{
+background:url(../Images/p.jpg);
+}
+#main
+{
+	height:1000px;
+	width:1200px;
+	margin:auto;
+	font-size:20pt;
+	background:white;
+}
+#header
+{
+	height:100px;
+	width:1200px;
+	color:MediumBlue;
+	opacity:0.3;
+	text-align:center;
+	
+	
+	background:url(../Images/84770f_3b3fdfe527c44973bb7b8c753e9a86f1.jpg);
+}
+#menu
+{
+	background:black;
+	color:white;
+	width:1200px;
+	height:40px;
+	
+}
+a
+{
+	text-decoration:none;
+	font-weight:bold;
+	text-align:center;
+	color:white;
+}
+#right
+{
+	width:250px;
+	background:white;
+	height:auto;
+	float:right;
+}
+#container
+{
+	width:950px;
+	height:auto;
+	
+	margin:0px;
+	padding:0px;
+
+	float:left;	
+	background:white;
+}
+p
+{
+		font-size:15pt;
+		text-align:center;
+}
+#footer
+{
+	width:1200px;
+	height:100px;
+	background:SeaShell;
+	color:black;
+	text-align:center;
+	clear:both;
+}
